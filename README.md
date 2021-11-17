@@ -4,6 +4,8 @@ Uses C++ code that is rendered using OpenGL and the GLFW framework.
 Creates an solar system animation (that consists of the sun, earth, and moon) that moves in real time once the program is run. Each object rotates on its own axis and the moon orbits the earth while the earth orbits the sun. The tilts of the orbits and axis rotations are accurate to current available data from NASA.
 This program utilized texture mapping, model and view transformations, reference frames, (including spherical camera movement) and real-time animation, all within the viewing pipeline.
 
+![A snapshot of the animation](virtual_orrery_snapshot.jpg)
+
 ## Usage and Keyboard Controls
 
 ### Animation Controls:
