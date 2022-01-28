@@ -14,6 +14,11 @@ This program utilized texture mapping, model and view transformations, reference
 
 2 Key - Restart
 
+### Camera Controls:
+-------------
+Right Mouse Button Click and Drag - Moves camera view in 3D space
+
+Mouse Scroll Button - Zooms camera view in an out
 
 ## Running and Compiling
 Running and Compliing of this program will require several third party GLFW libraries (argh- 1.3.1, fmt-7.0.3, glew-2.1.0, glfw-3.3.2, glm-0.9.9.7, imgui-1.78, stb-2.26, vivd-2.2.1)
